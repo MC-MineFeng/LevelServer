@@ -1,0 +1,10 @@
+{
+    "name": "LevelServer",
+    "version": "1.1.0",
+    "description": "等级系统同步插件",
+    "main": "LevelServer.js",
+    "author": "MineFeng",
+    "dependencies": {
+        "ws": "^8.17.0"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "name": "LevelServer",
+    "entry": "LevelServer.js",
+    "type": "lse-nodejs",
+    "author": "MineFeng",
+    "description": "[服务端] 等级系统同步",
+    "version": "1.1.0",
+    "dependencies": [
+        {
+            "name": "legacy-script-engine-quickjs"
+        },
+		{
+            "name": "GMLIB-LegacyRemoteCallApi"
+        },
+        {
+            "name": "LevelExp"
+        }
+    ]
+}
