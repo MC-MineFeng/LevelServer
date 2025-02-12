@@ -1,0 +1,28 @@
+{
+    "format_version": 2,
+    "tooth": "github.com/MC-MineFeng/LevelServer",
+    "version": "1.1.0",
+    "info": {
+        "name": "LevelServer",
+        "description": "LevelExp等级系统的多服同步插件!",
+        "author": "MineFeng",
+        "source": "github.com/MC-MineFeng/LevelServer",
+        "tags": [
+            "levilamina",
+            "library",
+            "plugin"
+        ]
+    },
+    "asset_url": "https://github.com/MC-MineFeng/LevelServer/releases/download/v1.1.0/LevelServer-v1.1.0.zip",
+    "prerequisites": {
+        "github.com/LiteLDev/LeviLamina": "1.0.x"
+    },
+    "files": {
+        "place": [
+            {
+                "src": "LevelServer/*",
+                "dest": "plugins/LevelServer/"
+            }
+        ]
+    }
+}
